@@ -13,7 +13,7 @@ contract RaffleTest is Test {
     HelperConfig public helperConfig;
 
     uint256 subscriptionId;
-    bytes32 gasLane;;;
+    bytes32 gasLane;
     uint256 interval;
     uint256 entranceFee;
     uint32 callbackGasLimit;
